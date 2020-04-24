@@ -1,12 +1,20 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package test;
 
 import domain.Exercise;
 
+/**
+ *
+ * @author i-kom
+ */
 public class TestResult {
 
     public static void main(String[] args) {
-
-        int R=10;
-        System.out.println("Area of a circle for R="+R+"m is "+Exercise.Calculate(R)+"m"+'\u00B2');
+        System.out.println("\nКількість щасливих квитків в серії " + " — " + Exercise.Calculate());
     }
+    
 }
