@@ -23,4 +23,4 @@
 
 ## Результат
 
-![Result](/img/result.PNG)
+![Result](/img/result.png)
